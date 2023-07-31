@@ -42,11 +42,14 @@ plt.show()
 ```
 
 
-## Output
+## Output:
+
+
 
 
 
 ![output](exp1.png) 
+
 
 
 
