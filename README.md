@@ -40,8 +40,17 @@ plt.plot(x,ypred,color="Blue")
 plt.show()
 
 ```
+
+
 ## Output
+
+
+
 ![output](exp1.png) 
+
+
+
+
 ![output](exp2.png)
 
 ## Result
